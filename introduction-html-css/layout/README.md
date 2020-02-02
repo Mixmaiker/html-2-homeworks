@@ -19,6 +19,7 @@
 5. Оберните тег `<p>` парным тегом `<main>` с атрибутом `class` и значением `content`.
 6. Протестируйте результат в браузере.
 
+
 Правильный результат должен иметь вид:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-1-block-after.png)
